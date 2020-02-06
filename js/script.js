@@ -92,3 +92,78 @@
 // Create a variable that produces a null value in the console window. 
 // Create a variable that produces an undefined value in the console window.
 
+// let x = null;
+// window.console.log(x);
+
+// let y;
+// window.console.log(y);
+
+
+//STEP 10
+// Use the typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+
+// typeof "Dahwin"
+// typeof 38
+// typeof true
+// typeof new Date()
+// typeof myShirt
+
+
+//STEP 11
+// Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows: 
+
+// Hello Zak Ruvalcaba, welcome to the JavaScript class!
+
+// Substitute my name for your name. Although not necessary in practice, I want you to use 2 concatenation operators to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
+
+// alert("Hello Dahwin DelaCruz, welcome to the Javascript class!");
+
+
+//STEP 12
+// Declare a variable called name and set it equal to your name. 
+// Substitute your name in the previous alert string with the variable instead.
+
+// let name = "Dahwin";
+// alert("Hello " + name + ", welcome to the Javascript class!");
+
+
+//STEP 13
+// Declare a variable called course and set it equal to “JavaScript”. 
+// Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
+
+// let name = "Dahwin";
+// let langType = "JavaScript";
+// alert("Hello " + name + ", welcome to the " + langType + " class!");
+
+
+//STEP 14
+// Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
+
+// Hello Zak Ruvalcaba.
+// Welcome to the JavaScript class!
+
+// let name = "Dahwin";
+// let langType = "JavaScript";
+// alert("Hello " + name + ".\nWelcome to the " + langType + " class!");
+
+
+//STEP 15
+// Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable. 
+
+// let name = window.prompt("Please enter your name");
+// let langType = "JavaScript";
+// alert("Hello " + name + ".\nWelcome to the " + langType + " class!");
+
+
+//STEP 16
+// Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
+
+// let name = window.prompt("Please enter your name");
+// let langType = window.prompt("What class are you taking?");
+// alert("Hello " + name + ".\nWelcome to the " + langType + " class!");
+
+
+//STEP 17
+// Assign the value 10 to x on a new line. 
+// Assign the value 20 to y on a new line. 
+// Display the sum of those two numbers in the console window. 
