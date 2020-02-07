@@ -227,8 +227,20 @@
 //STEP 24
 // Using the instanceof operator, write an application that returns true within the console window if the widget variable is an instance of an object.
 
-
+// let widget = new Object();
+// let isTrue = widget instanceof Object;
+// console.log(isTrue);
 
 
 //STEP 25
 // Without modifying the variable declaration and assignment, rewrite the previous application so that it returns false.
+
+// class Spinner{}
+// let widget = new Object();
+// let fidget = new Spinner(); 
+
+// let isTrue = widget instanceof Object;
+// let isTrue2 = widget instanceof Spinner;
+
+// console.log(isTrue);
+// console.log(isTrue2);
