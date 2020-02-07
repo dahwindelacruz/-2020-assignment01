@@ -167,3 +167,68 @@
 // Assign the value 10 to x on a new line. 
 // Assign the value 20 to y on a new line. 
 // Display the sum of those two numbers in the console window. 
+
+// let x = 10;
+// let y = 20;
+// window.console.log(x + y);
+
+
+//STEP 18
+// Declare a variable called x and assign it a value of 20. 
+// Add and assign 20 to that variable and display the result in the console window.
+// The result should be 40.
+
+// let x = 20;
+// window.console.log(x + 20);
+
+
+//STEP 19
+// Declare a variable called x and assign it a value of 20.
+// Multiply and assign 5 to that variable and display the result in the console window. 
+// The result should be 100.
+
+// let x = 20;
+// window.console.log(5 * x);
+
+
+//STEP 20
+// Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
+// Divide and assign 1 to that variable and display the result in the console window. 
+// The result should be 2. If you got 6.66 try again.
+
+// let x = 20 % 3;
+// window.console.log(x / 1);
+
+
+//STEP 21
+// Using a set of Comparison and Logical operators, write an application that evaluates to true and displays the result within the console window.
+
+// let x = 10000;
+// let y = 10000;
+// window.console.log(x == y);
+
+
+//STEP 22
+// Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
+
+// let x = 10000;
+// let y = 10000;
+// window.console.log(x != y);
+
+
+//STEP 23
+// Use the new operator to create a new Object called “widget”. Within the console window, use the typeof operator to display the type of variable widget is.
+
+// let bridget = "widget";
+// typeof widget
+// "undefined"
+
+
+//STEP 24
+// Using the instanceof operator, write an application that returns true within the console window if the widget variable is an instance of an object.
+
+
+
+
+//STEP 25
+// Without modifying the variable declaration and assignment, rewrite the previous application so that it returns false.
