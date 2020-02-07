@@ -219,9 +219,9 @@
 //STEP 23
 // Use the new operator to create a new Object called “widget”. Within the console window, use the typeof operator to display the type of variable widget is.
 
-// let bridget = "widget";
+// let widget = new Object();
 // typeof widget
-// "undefined"
+// "object"
 
 
 //STEP 24
