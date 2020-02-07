@@ -244,3 +244,6 @@
 
 // console.log(isTrue);
 // console.log(isTrue2);
+
+// true
+// false
